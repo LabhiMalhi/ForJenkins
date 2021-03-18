@@ -9,6 +9,7 @@ public class AdvanceCalculator extends Calulator {
     public void mulDiv(){
         System.out.println("Multiplication => " +a*b);
         System.out.println("Division => "+ a/b);
+        System.out.println("Are you not Entertained?");
     }
 
 }
