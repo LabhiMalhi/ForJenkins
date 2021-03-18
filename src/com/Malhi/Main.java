@@ -14,6 +14,7 @@ public class Main {
        AdvanceCalculator adCal = new AdvanceCalculator(i,j );
        adCal.addSub();
        adCal.mulDiv();
+        System.out.println("You noticed any change");
 
 
 
